@@ -1,0 +1,5 @@
+.env
+json_test/
+temp/
+test_exam/
+*.json
